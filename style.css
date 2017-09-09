@@ -1,0 +1,26 @@
+td[id*=cell] {    
+    height: 50px;
+	width: 60px;
+}
+.highlight {
+	border: 2px solid green !important;
+}
+div[id*=chip_div_]{
+	height: 25px;
+}
+ #st_list {
+	border: 1px solid red;
+ }
+#asm_list {
+	border: 1px solid red;
+    height: 1000px;	
+ }
+ img[id*=chip_img_] {
+    position: absolute; /* Относительное позиционирование */
+   } 
+ .mt-50 {
+	margin-top: 50px; 
+ }	 
+   
+   
+
